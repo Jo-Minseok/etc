@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "(NestJS) board_project",
+            "database": "board_project",
+            "username": "postgres",
+            "password": "board_postgres"
+        }
+    ]
+}
